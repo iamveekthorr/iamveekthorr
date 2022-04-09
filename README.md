@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 	Hello and welcome :smile:
 </h3>
 
-<h4 align="center">
-	Head <a href="https://github.com/iamveekthorr/iamveekthorr/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
-</h4>
 <hr>
 
 <p align="center">
