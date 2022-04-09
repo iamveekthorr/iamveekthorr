@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=iamveekthorr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=iamveekthorr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=synthwave" />
 </p>
 
 
