@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-**iamveekthorr/iamveekthorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Freelance projects
+- 🌱 I’m currently learning at NIIT
+- 👯 I’m looking to collaborate on: open-source projects
+- 📫 How to reach me: +234 90 582 2825
+- ⚡ Fun fact: i design ✒️ and play the drums 🥁 as well😂
+
 
 
 - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr)
@@ -32,11 +26,11 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact&theme=gruvbox">
 </p>
 
 <h4 align="center">Views of all repositories (updated daily)</h4>
