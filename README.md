@@ -1,19 +1,12 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on: Freelance projects
-- 🌱 I’m currently learning at NIIT
-- 👯 I’m looking to collaborate on: open-source projects
-- 📫 How to reach me: +234 90 582 2825
-- ⚡ Fun fact: i design ✒️ and play the drums 🥁 as well😂
-
-
-
-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr)
+<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge" /> -->
 
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
+
+<h5 align="center">⚡ Fun fact: i design ✒️ and play the drums 🥁 as well😂</h5>
+<h5 align="center">📫 How to reach me: +234 90 582 2825</h5>
 
 <hr>
 
