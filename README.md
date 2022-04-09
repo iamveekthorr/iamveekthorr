@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 	Hello and welcome :smile:
 </h3>
 
-<h4 align="center">
-	Head <a href="https://github.com/iamveekthorr/iamveekthorr/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
-</h4>
 <hr>
 
 <p align="center">
@@ -34,7 +31,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
 
