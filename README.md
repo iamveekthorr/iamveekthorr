@@ -22,22 +22,29 @@ Here are some ideas to get you started:
 	Hello and welcome :smile:
 </h3>
 
+<h4 align="center">
+	Head <a href="https://github.com/iamveekthorr/iamveekthorr/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
+</h4>
 <hr>
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=iamveekthorr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?
+		user=iamveekthorr&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+				username=iamveekthorr&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
 
 <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
-	<a href="https://github.com/formidablae/my_github_profile_views_counter">
+	<a href="https://github.com/iamveekthorr/my_github_profile_views_counter">
 		<img width="135em" src="https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
 	</a>
 </p>
@@ -84,10 +91,8 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Version Control
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
