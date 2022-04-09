@@ -6,7 +6,7 @@
 </h3>
 
 <h5 align="center">⚡ Fun fact: i design ✒️ and play the drums 🥁</h5>
-<h5 align="center">📫 How to reach me: +234 90 582 2825</h5>
+<h5 align="center">📫 How to reach me: +234 90 5822 2825</h5>
 
 <hr>
 
