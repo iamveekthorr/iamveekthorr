@@ -24,14 +24,6 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact&theme=gruvbox">
 </p>
 
-<h4 align="center">Views of all repositories (updated daily)</h4>
-<p align="center">
-	<a href="https://github.com/iamveekthorr/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/iamveekthorr/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
-	</a>
-</p>
-
-
 
 # Technologies
 
