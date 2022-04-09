@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=iamveekthorr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamveekthorr&repo=github-readme-stats)](https://github.com/iamveekthorr/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
