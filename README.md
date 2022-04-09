@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Freelance projects
 - 🌱 I’m currently learning at NIIT
 - 👯 I’m looking to collaborate on: open-source projects
