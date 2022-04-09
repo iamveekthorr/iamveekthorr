@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr) -->
-<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge" />
+- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr)
+<!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge" /> -->
 
 <h3 align="center">
 	Hello and welcome :smile:
@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-				username=iamveekthorr&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact">
 </p>
 
 <h4 align="center">Views of all repositories (updated daily)</h4>
