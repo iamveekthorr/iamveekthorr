@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats">
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+				username=iamveekthorr&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
+
 <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
 	<a href="https://github.com/iamveekthorr/my_github_profile_views_counter">
