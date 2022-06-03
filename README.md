@@ -49,7 +49,7 @@
 
 
 ### ORM
-![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white)
+![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeorm&logoColor=white)
 
 
 ### Programming & Markdown, Styling Languages
