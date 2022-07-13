@@ -5,8 +5,8 @@
 	Hello and welcome :smile:
 </h3>
 
-<h5 align="center">⚡ Fun fact: i design ✒️ and play the drums 🥁</h5>
-<h5 align="center">📫 How to reach me: +234 90 5822 2825</h5>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_veekthorr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_veekthorr)
 
 <hr>
 
@@ -24,6 +24,8 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveekthorr&layout=compact&theme=gruvbox">
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamveekthorr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Technologies
 
