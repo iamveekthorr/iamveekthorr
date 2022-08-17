@@ -1,6 +1,6 @@
 <!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge" /> -->
-
+[![](https://visitcount.itsvg.in/api?id=iamveekthorr&icon=0&color=4)](https://visitcount.itsvg.in)
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
