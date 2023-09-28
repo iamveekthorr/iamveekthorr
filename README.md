@@ -1,7 +1,7 @@
 <!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge)](https://github.com/iamveekthorr) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=iamveekthorr.visitor-badge" /> -->
 [![](https://visitcount.itsvg.in/api?id=iamveekthorr&icon=0&color=4)](https://visitcount.itsvg.in)
-<p align="left">
+
 👨‍💻 **Software Engineer | Code Craftsman 🛠️ | Tech Enthusiast 🚀**
 
 Hey there! I'm Victor, a passionate software engineer with a love for building elegant solutions to complex problems. 🤓
@@ -31,7 +31,6 @@ Feel free to reach out to me! Whether it's for collaboration, discussion, or jus
 
 Happy coding! 🚀✨
 
-</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_veekthorr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_veekthorr)
