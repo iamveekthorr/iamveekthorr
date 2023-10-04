@@ -13,7 +13,7 @@ Hey there! I'm Victor, a passionate software engineer with a love for building e
 - **SQL**: Building robust databases.
 - **HTML/CSS**: Crafting beautiful and responsive UIs.
 - **Node.js**: My trusty companion for backend work.
-- **React**: Crafting pixel-perfect user interfaces.
+- **React/Vue**: Crafting pixel-perfect user interfaces.
 - **AWS**: Deploying scalable and resilient cloud solutions.
 - **Git/GitHub**: Version control and collaboration.
 
@@ -71,6 +71,7 @@ Happy coding! 🚀✨
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Hosting/SaaS
