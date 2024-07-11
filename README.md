@@ -36,13 +36,6 @@ Happy coding! 🚀✨
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_veekthorr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_veekthorr)
 
 <hr>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=iamveekthorr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
-</p>
-
-
-
 <p align="center">
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
 </p>
