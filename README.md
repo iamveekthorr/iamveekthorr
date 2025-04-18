@@ -79,6 +79,8 @@ Happy coding! 🚀✨
 ![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-violet?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 
 
