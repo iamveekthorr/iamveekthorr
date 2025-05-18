@@ -27,7 +27,8 @@ I'm a strong advocate for open-source software. I've contributed to projects tha
 My mission is to create innovative software solutions that make life easier and more enjoyable for everyone. I'm always striving to push the boundaries of what's possible.
 
 📫 **Let's Connect** 🌐
-Feel free to reach out to me! Whether it's for collaboration, discussion, or just a friendly chat about tech, I'm always up for it. Connect with me here or find me on [LinkedIn](https://www.linkedin.com/in/victor-okonkwo-666784180/)!
+Feel free to reach out to me! Whether it's for collaboration, discussion, or just a friendly chat about tech, I'm always up for it.
+Connect with me here or find me on [LinkedIn](https://www.linkedin.com/in/victor-okonkwo-666784180/)!
 
 Happy coding! 🚀✨
 
