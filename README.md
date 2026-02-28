@@ -80,6 +80,3 @@ Always happy to chat about backend architecture, interesting problems, or what y
 <p align="center">
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=iamveekthorr&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamveekthorr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
